@@ -2,7 +2,8 @@
 
 # Questions and Answers
 
-This repository hosts `Q&A` for the whole roboticslab-uc3m group.
+This repository is intended to be a codeless repository for Questions and Answers (Q&A) at <https://github.com/roboticslab-uc3m>, via the GitHub Issue mechanism.
 
-To ask questions and/or look for answers visit our [**`Q&A`**](https://github.com/roboticslab-uc3m/QA/issues?utf8=%E2%9C%93&q=is%3Aissue).
+Please, before asking any question, read the guidelines at: [Developer Manual: Asking Questions](http://robots.uc3m.es/gitbook-developer-manual/asking-questions.html)
 
+Follow this link to see all Open and Closed GitHub Issues of this repository: <https://github.com/roboticslab-uc3m/QA/issues?utf8=%E2%9C%93&q=is%3Aissue>
